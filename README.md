@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-Hello, my name is Tristan and I am a developer.
+I am a junior Web Developer, living in Rennes, France.
+
+🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
+📚 I'm reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
+
+My bootcamp projects :
+
+MiSpace : an Airbnb clone.
+Binder : a book-sharing app.
+Languages and Tools I work with :
+html5 css3 ruby rails bootstrap figma git heroku postgresql webpack
 
 <!--
 **tristanmeillard/tristanmeillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
