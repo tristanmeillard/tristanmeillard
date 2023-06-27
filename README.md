@@ -3,6 +3,7 @@
 I am a junior Web Developer, living in Rennes, France.
 
 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
+<br>
 📚 I'm reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
 
 My bootcamp projects :
