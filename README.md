@@ -8,8 +8,8 @@ I am a junior Web Developer, living in Rennes, France.
 <p>My bootcamp projects :</p>
 
 <ul>
-  <li><a href="https://mispace.herokuapp.com/">MiSpace</a> : an Airbnb clone.</li>
-  <li><a href="http://www.binder.ink/">Vibes</a> : a book-sharing app.</li>
+  <li><a href="https://mispace.herokuapp.com/" target="_blank">MiSpace</a> : an Airbnb clone.</li>
+  <li><a href="http://www.binder.ink/" target="_blank">Binder</a> : a book-sharing app.</li>
 </ul>
 
 <h3 align="left">Languages and Tools I work with :</h3>
