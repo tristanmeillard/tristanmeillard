@@ -8,8 +8,8 @@ I am a junior Web Developer, living in Rennes, France.
 
 My bootcamp projects :
 
-MiSpace : an Airbnb clone.
-Binder : a book-sharing app.
+MiSpace : an Airbnb clone. <br>
+Binder : a book-sharing app. <br>
 Languages and Tools I work with :
 html5 css3 ruby rails bootstrap figma git heroku postgresql webpack
 
